@@ -1,16 +1,16 @@
 <div align="center">
 
-# 📄 Office Toolss
+# 📄 Office Tools
 
 ### Free PDF & Image Tools — no login, no install, no hassle.
 
-[![Live](https://img.shields.io/badge/LIVE-OFFICE%20TOOLS-ff1493?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a1a)](https://pixelpdf.onrender.com)
+[![Live](https://img.shields.io/badge/LIVE-OFFICE%20TOOLS-ff1493?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a1a)](https://officetoolss.pages.dev/)
 [![Made By Adarsh](https://img.shields.io/badge/MADE%20BY-ADARSH-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://devvadarsh.github.io/crownlab)
 ![Cost](https://img.shields.io/badge/COST-FREE-2ea44f?style=for-the-badge&labelColor=1a1a1a)
-[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-MIT-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a)](https://github.com/devvadarsh/pixelpdf)
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-MIT-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a)](https://github.com/devvadarsh/officetoolss)
 ![Tools](https://img.shields.io/badge/TOOLS-21-orange?style=for-the-badge&labelColor=1a1a1a)
 
-**[🚀 Open Office Tools](https://pixelpdf.onrender.com)**
+**[🚀 Open Office Tools](https://officetoolss.pages.dev/)**
 
 </div>
 
@@ -71,8 +71,8 @@
 
 Office Tools is fully open source under the **MIT License**. You can use, copy, modify and share it, even commercially, as long as the license notice stays.
 
-- 📦 Source code: **[github.com/devvadarsh/pixelpdf](https://github.com/devvadarsh/pixelpdf)**
-- 🐛 Found a bug or want a feature? [Open an issue](https://github.com/devvadarsh/pixelpdf/issues)
+- 📦 Source code: **[github.com/devvadarsh/officetoolss](https://github.com/devvadarsh/officetoolss)**
+- 🐛 Found a bug or want a feature? [Open an issue](https://github.com/devvadarsh/officetoolss/issues)
 - 🤝 Contributions are welcome: fork the repo, make your change, and send a pull request.
 - 🏠 More projects: [Crown Lab](https://devvadarsh.github.io/crownlab)
 
@@ -80,7 +80,7 @@ Office Tools is fully open source under the **MIT License**. You can use, copy, 
 
 ## 🚀 How to Use
 
-1. Open **[pixelpdf.onrender.com](https://pixelpdf.onrender.com)**.
+1. Open **[officetoolss.pages.dev](https://officetoolss.pages.dev/)**.
 2. Choose a tool from the menu.
 3. Click **Choose file** (or drag and drop your file).
 4. Adjust the options if the tool has any.
